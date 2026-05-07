@@ -1,0 +1,30 @@
+{
+  "fullname": "Curnosov Dima Mellstroy",
+  "inn": "123123123123",
+  "properties": [
+    {
+      "Apartment": {
+        "square": 55.5,
+        "worth": 555555
+      }
+    },
+    {
+      "Apartment": {
+        "square": 66.6,
+        "worth": 666666
+      }
+    },
+    {
+      "Car": {
+        "horsepower": 1.7,
+        "worth": 77777
+      }
+    },
+    {
+      "CountryHouse": {
+        "distanse": 30,
+        "worth": 666666
+      }
+    }
+  ]
+}

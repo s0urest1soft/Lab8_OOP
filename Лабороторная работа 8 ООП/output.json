@@ -1,0 +1,27 @@
+{
+    "fullname": "John Homelander Patriot",
+    "inn": "234567890123",
+    "properties": [
+        {
+            "Apartmemt": {
+                "tax": 60000.0
+            }
+        },
+        {
+            "Car": {
+                "tax": 162000.0
+            }
+        },
+        {
+            "Car": {
+                "tax": 630.0
+            }
+        },
+        {
+            "CountryHouse": {
+                "tax": 7000.0
+            }
+        }
+    ],
+    "sumtax": 229630.0
+}

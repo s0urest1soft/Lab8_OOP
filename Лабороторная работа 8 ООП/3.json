@@ -1,0 +1,27 @@
+{
+    "fullname": "Allen the Allen",
+    "inn": "345678901234",
+    "properties": [
+        {
+            "Car": {
+                "tax": 35000.0
+            }
+        },
+        {
+            "Apartmemt": {
+                "tax": 4500.0
+            }
+        },
+        {
+            "CountryHouse": {
+                "tax": 120000.0
+            }
+        },
+        {
+            "Apartmemt": {
+                "tax": 3000.0
+            }
+        }
+    ],
+    "sumtax": 162500.0
+}
